@@ -1,2 +1,2 @@
 # Documentations
-Project Documentations
+このリポジトリはプロジェクトで作成したドキュメンテーションを保存しておくためのものです。
